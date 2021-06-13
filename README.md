@@ -52,7 +52,7 @@
 
 Step 1 (Clone or Download)
 ```
-git clone https://github.com/jaleelx98/Bad-Robo.git
+git clone https://github.com/Xachuzz/Bad-Robo.git
 ```
 Step 2 (Open Bad-Robo Drectory)
 ```
@@ -89,20 +89,20 @@ Install Again
 ```
 
 ---
-## Video Tutorial 
-### https://youtu.be/EoLr5Brx1Rk
+## Telegram💖 
+### https://t.me/perfectvazha
 ---
 ## License
-##### Copyright (c) [2020] [jaleel_x98]
+##### Copyright (c) [2020] [Xachuzz]
 ##### Licensed under the Apache License, Version 2.0
 ---
 ## Contact Us
-- [Instagram](https://instagram.com/jaleel_x98) 
+- [Instagram](https://instagram.com/xachuzz) 
 ---
 
 # Donate
 #### Support And Join Our Family....!
 #### Consider donating ❤️️
-<a href="https://instagram.com/jaleel_x98"><img src="https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/580b57fcd9996e24bc43c530.png" align="left" height="55" ></a>
+<a href="https://instagram.com/xachuzz"><img src="https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/580b57fcd9996e24bc43c530.png" align="left" height="55" ></a>
 ---
 
