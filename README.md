@@ -16,7 +16,7 @@
 - [Features Of The BadRobo](#features-of-the-badrobo)
 - [Installation](#installation)
 - [How to Update ?](#UPDATING)
-- [Tutorial Video](#video-tutorial)
+- [Telegram](#contact)
 - [License](#license)
 - [Contact Us](#contact-us)
 - [Donate](#Donate)
