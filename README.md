@@ -52,7 +52,7 @@
 
 Step 1 (Clone or Download)
 ```
-git clone https://github.com/Xachuzz/Bad-Robo.git
+git clone https://github.com/jaleelx98/Bad-Robo.git
 ```
 Step 2 (Open Bad-Robo Drectory)
 ```
